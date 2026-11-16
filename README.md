@@ -90,6 +90,8 @@ npx skills add oil-oil/oil-diff
 - **单文件离线可用**：最终生成的 `.oil-diff/index.html` 是零外部依赖的单文件网页，双击就能在浏览器打开，也可以直接发给同事查看。
 - **配置与兼容性**：无需额外配置 API Key 或环境变量；仅依赖系统 `git` 与 Python 3.10+ 标准库，支持 macOS、Windows 与 Linux。
 
+平时配合 Git 分支、Worktree 和 PR 管理改动的做法，也可以参考 Oil Book 里的[《从 0 到 1 学会使用 Git 与 GitHub》](https://book.oiloil.org/articles/git-from-scratch?utm_source=github&utm_medium=referral&utm_campaign=oil-diff-readme)。
+
 <p align="center">
   <a href="https://github.com/oil-oil/beautify-github-readme"><img src="./assets/readme/made-with-beautify.svg" width="300" alt="README made with beautify-github-readme"></a>
 </p>
